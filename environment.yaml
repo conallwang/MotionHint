@@ -1,0 +1,22 @@
+name: MotionHint
+channels:
+  - defaults
+dependencies:
+  - conda=4.10.3=py38h06a4308_0
+  - ipython=7.29.0=py38hb070fc8_0
+  - pip=21.2.4=py38h06a4308_0
+  - python=3.8.8=hdb3f193_5
+  - pyyaml=6.0=py38h7f8727e_1
+  - tqdm=4.62.3=pyhd3eb1b0_1
+  - yaml=0.2.5=h7b6447c_0
+  - pip:
+    - matplotlib==3.5.0
+    - numpy==1.21.4
+    - protobuf==3.17.3
+    - scikit-image==0.19.2
+    - scikit-learn==1.0.1
+    - scipy==1.7.3
+    - tensorboardx==2.4
+    - torch==1.9.0
+    - torchaudio==0.9.0
+    - torchvision==0.10.0
