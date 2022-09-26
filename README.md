@@ -17,15 +17,17 @@ This code is for non-commercial use; please see the [license file](LICENSE) for 
 If you find our work useful in your research please consider citing our paper:
 
 ```
-@article{motionhint,
+@inproceedings{DBLP:conf/icra/WangWM22,
   author    = {Cong Wang and
                Yu{-}Ping Wang and
                Dinesh Manocha},
   title     = {MotionHint: Self-Supervised Monocular Visual Odometry with Motion
                Constraints},
-  journal   = {CoRR},
-  volume    = {abs/2109.06768},
-  year      = {2021}
+  booktitle = {2022 International Conference on Robotics and Automation, {ICRA} 2022,
+               Philadelphia, PA, USA, May 23-27, 2022},
+  pages     = {1265--1272},
+  publisher = {{IEEE}},
+  year      = {2022}
 }
 ```
 
